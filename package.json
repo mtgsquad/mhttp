@@ -1,0 +1,18 @@
+{
+  "name": "mhttp",
+  "version": "1.0.0",
+  "description": "A Simple HTTP Server Library",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtgsquad/mhttp"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MTGSquad",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
